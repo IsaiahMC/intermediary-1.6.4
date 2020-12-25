@@ -1,7 +1,6 @@
-# Intermediary 1.6.4 
+# Intermediary Generated
 
-Intermediary class mappings for 1.6.4.
-
+Intermediary class mappings for <=1.6.4.
 These are generated with the help of the [MinecraftMappings parser](https://mappings.javazilla.com/)
 
 ![im](https://i.imgur.com/uPpaRJU.png)

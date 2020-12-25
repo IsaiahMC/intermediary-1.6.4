@@ -1,4 +1,2 @@
 # Matcher files
-cfr-*.jar
-decompiled/
-minecraft*.jar
+/matcher/
