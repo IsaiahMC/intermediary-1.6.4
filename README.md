@@ -3,6 +3,11 @@
 Intermediary class mappings for <=1.6.4.
 These are generated with the help of the [MinecraftMappings parser](https://mappings.javazilla.com/)
 
+It compaires the classes between versions to find the correct match.
+(Ex: if class A is Entity in 1.6.4, it will find the 1.16 intermediary value for Entity, then the 1.6.4 obf class is matched to the found intermediary value)
+
+TODO: Update parser to check between MCP/Searge/Mojmap versions also, as right now it only checks between the Spigot versions making the output only as good as Spigot's coverage. 
+
 ![im](https://i.imgur.com/uPpaRJU.png)
 
 ## License
