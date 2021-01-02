@@ -6,7 +6,22 @@ These are generated with the help of the [MinecraftMappings parser](https://mapp
 It compaires the classes between versions to find the correct match.
 (Ex: if class A is Entity in 1.6.4, it will find the 1.16 intermediary value for Entity, then the 1.6.4 obf class is matched to the found intermediary value)
 
-TODO: Update parser to check between MCP/Searge/Mojmap versions also, as right now it only checks between the Spigot versions making the output only as good as Spigot's coverage. 
+| Version | SRG                                  | Tiny v1                                |
+|---------|--------------------------------------|----------------------------------------|
+| 1.2.5   | [.srg](/1.2.5/obf2intermediary.srg)  | [.tiny](/1.2.5/obf2intermediary.tiny)  |
+| 1.3.2   | [.srg](/1.3.2/obf2intermediary.srg)  | [.tiny](/1.3.2/obf2intermediary.tiny)  |
+| 1.4.7   | [.srg](/1.4.7/obf2intermediary.srg)  | [.tiny](/1.4.7/obf2intermediary.tiny)  |
+| 1.5.2   | [.srg](/1.5.2/obf2intermediary.srg)  | [.tiny](/1.5.2/obf2intermediary.tiny)  |
+| 1.6.4   | [.srg](/1.6.4/obf2intermediary.srg)  | [.tiny](/1.6.4/obf2intermediary.tiny)  |
+| 1.7.2   | [.srg](/1.7.2/obf2intermediary.srg)  | [.tiny](/1.7.2/obf2intermediary.tiny)  |
+| 1.7.10  | [.srg](/1.7.10/obf2intermediary.srg) | [.tiny](/1.7.10/obf2intermediary.tiny) |
+| 1.8.8   | [.srg](/1.8.8/obf2intermediary.srg)  | [.tiny](/1.8.8/obf2intermediary.tiny)  |
+| 1.9.4   | [.srg](/1.9.4/obf2intermediary.srg)  | [.tiny](/1.9.4/obf2intermediary.tiny)  |
+| 1.10.2  | [.srg](/1.10.2/obf2intermediary.srg) | [.tiny](/1.10.2/obf2intermediary.tiny) |
+| 1.11.2  | [.srg](/1.11.2/obf2intermediary.srg) | [.tiny](/1.11.2/obf2intermediary.tiny) |
+| 1.12.2  | [.srg](/1.12.2/obf2intermediary.srg) | [.tiny](/1.12.2/obf2intermediary.tiny) |
+| 1.13.2  | [.srg](/1.13.2/obf2intermediary.srg) | [.tiny](/1.13.2/obf2intermediary.tiny) |
+
 
 ![im](https://i.imgur.com/uPpaRJU.png)
 
